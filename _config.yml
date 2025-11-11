@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "FENG HIO IENG"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "a student"
+  location         : "Macau, China"
+  employer         : "MPU"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "p2506496@mpu.edu.mo" 
 
   # Academic websites
   academia         : # URL
